@@ -1,0 +1,30 @@
+.container{
+    margin-bottom: 100px;
+}
+.orange-bg{
+    background-color:#FEEAE9;
+    border-radius: 10px;
+}
+.first-p{
+    color:goldenrod;
+    
+}
+.first-price{
+    color: rgb(105, 13, 13);
+    
+  
+}
+.carousel-item{
+    padding:20px 40px;
+}
+.first-price{
+    color: #ff136f;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #FF5898, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
